@@ -3,7 +3,7 @@ import time
 
 #writing to txt function
 def writing():
-    f = open( 'results_1.txt', 'a' )
+    f = open( 'results.txt', 'a' )
     f.write('player1 '+repr(player1)+'\n')
     f.write('player2 '+repr(player2)+'\n')
     f.write('\n')
