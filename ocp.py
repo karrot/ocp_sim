@@ -19,8 +19,8 @@ coinflip=(1,2)
 player1=100
 player2=100
 
-#x is player 1
-#y is player 2
+#x is player 1 stack size
+#y is player 2 (computer) stack size
 #optimal bluffing
 
 sample=int(raw_input("Enter sample size: "))
